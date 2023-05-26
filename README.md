@@ -12,13 +12,7 @@
   <a href="https://instagram.com/_tfkhdyt_"><img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
   <!-- <a href="https://pddikti.kemdikbud.go.id/data_mahasiswa/QUUyNzdEMjktNDk0Ri00RTlDLUE4NzgtNkUwRDBDRjIxOUNB"><img height="28" src="https://i.postimg.cc/YSB2c3DG/1619598282440.png"></a> -->
 </p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tfkhdyt.tfkhdyt" />
-  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/tfkhdyt?label=followers&style=social"/></a>
-  <!-- <a href='https://stackshare.io/tiswan/mn3'> -->
-  <!--   <img src='http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat' alt='StackShare' /> -->
-  <!-- </a> -->
-</p>
+
 
 <h3 align=center>Junior Frontend Developer</h3>
 
