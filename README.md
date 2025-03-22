@@ -22,7 +22,6 @@
 
 - 👨🏻‍💼 My name is `Tiswan`
 - 🏠 Live in `Pangandaran, Jawa Barat, Indonesia`
-- 👶🏻 Born in `Ciamis, August 21 2002`
 - 🧍🏻‍♂️ `21` years old
 - 💻 `Informatics Engineering` Student at `Universitas Perjuangan Tasikmalaya`
 - 🌏 Languages
