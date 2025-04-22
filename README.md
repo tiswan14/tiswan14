@@ -26,7 +26,6 @@
 - 💻 `Informatics Engineering` Student at `Universitas Perjuangan Tasikmalaya`
 - 🌏 Languages
   - 🇮🇩 Indonesian
-  - 🇮🇩 Sundanese
   - 🇬🇧 English
 <!-- - ~~👨🏻‍💻 MN3 Stack Developer (`MongoDB`, `Nest.js`, `Next.js`, `Node.js`)~~
 - 👨🏻‍💻 PNG Stack Developer (`PostgreSQL`, `Next.js`, `Gin`) -->
