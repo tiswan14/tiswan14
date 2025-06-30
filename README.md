@@ -80,3 +80,8 @@
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tiswan14&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📬 Open to Collaboration
+
+I'm available for freelance work, internships, or open-source contributions.  
+📧 Reach me at: `tiswanxxx@gmail.com` (ubah email jika perlu)
