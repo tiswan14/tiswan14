@@ -62,6 +62,20 @@
 ### Stats 📋
 
 <!-- GitHub Stats - Tiswan -->
+
+<!-- WakaTime Stats - Tiswan -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiswan14&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiswan14"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiswan14" alt="Statistik WakaTime Tiswan" />
+</picture>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true&theme=dark"
