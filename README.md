@@ -68,7 +68,8 @@
 
 ### 🐍 Contribution Graph
 
-![GitHub Snake](https://raw.githubusercontent.com/tiswan14/tiswan14/output/github-contribution-grid-snake.svg)
+<!-- Snake Contribution Animation -->
+<img src="https://raw.githubusercontent.com/tiswan14/tiswan14/output/snake.svg" alt="Snake animation" />
 
 ---
 
