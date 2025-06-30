@@ -67,9 +67,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### 📊 GitHub Stats
+### 🧠 Top Languages
 
-<!-- Top Languages - Tiswan (Compact + Theme-Aware) -->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&layout=compact&theme=dark"
@@ -83,24 +82,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&layout=compact"
     alt="Bahasa Pemrograman Teratas Tiswan (Compact)"
   />
-</picture>
-
-
-
----
-
-### 🧠 Top Languages
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&hide_progress=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&hide_progress=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&hide_progress=true" alt="Top Languages Used by Tiswan" />
 </picture>
 
 
