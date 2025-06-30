@@ -79,24 +79,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&hide_progress=true" alt="Top Languages Used by Tiswan" />
 </picture>
 
----
 
-### ⏱️ WakaTime (Coding Activity)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiswan14&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiswan14"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiswan14" alt="WakaTime Stats Tiswan" />
-</picture>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Animation" />
-</p>
