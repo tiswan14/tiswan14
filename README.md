@@ -61,6 +61,19 @@
 
 ### Stats 📋
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true" alt="GitHub Stats Tiswan" />
+</picture>
+
+
 <!-- | GitHub Stats | Contribution Streak |
 | --- | --- |
 | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tfkhdyt&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=tfkhdyt&count_private=true&theme=tokyonight" /> | -->
