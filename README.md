@@ -60,8 +60,10 @@
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&layout=compact&langs_count=8&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tiswan14&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tiswan14&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
