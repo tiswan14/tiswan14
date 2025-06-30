@@ -1,4 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Tiswan;Fullstack+Developer" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Tiswan;Fullstack+Developer" alt="Typing SVG" />
+</p>
+
+---
 
 ### 🔗 Connect With Me
 
@@ -11,22 +15,23 @@
 
 ### 🚀 About Me
 
-🎓 Informatics Engineering Student at Universitas Perjuangan Tasikmalaya  
-📍 Based in Pangandaran, West Java, Indonesia  
-🎂 21 years old  
-🌐 Languages: 🇮🇩 Indonesian (Native), 🇬🇧 English (Intermediate)
+-   🎓 Informatics Engineering Student at **Universitas Perjuangan Tasikmalaya**
+-   📍 Based in **Pangandaran, West Java, Indonesia**
+-   🎂 21 years old
+-   🌐 Languages: 🇮🇩 Indonesian (Native), 🇬🇧 English (Intermediate)
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🔧 Core Technologies
+#### 🔧 Core Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### ⚡ Frameworks & Libraries
 
@@ -68,5 +73,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tiswan14&label=Profile%20views&color=0e75b6&style=flat)
 
+---
+
 ### 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=tiswan14&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
