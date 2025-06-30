@@ -84,4 +84,4 @@
 ### 📬 Open to Collaboration
 
 I'm available for freelance work, internships, or open-source contributions.  
-📧 Reach me at: `tiswanxxx@gmail.com` (ubah email jika perlu)
+📧 Reach me at: `tiswan897@gmail.com`
