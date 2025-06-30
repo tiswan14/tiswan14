@@ -13,6 +13,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/code.wannn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/tiswann)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code.wannn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Download CV](https://img.shields.io/badge/Download_CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-cv-link.com)
 
 ---
 
