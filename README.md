@@ -86,21 +86,18 @@
 
 
 
-<!-- GitHub Stats - Tiswan (Theme: Radical) -->
+<!-- Snake GitHub Contribution Animation - Tiswan -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://raw.githubusercontent.com/tiswan14/tiswan14/output/snake.svg"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true"
-    alt="Statistik GitHub Tiswan dengan Tema Radical"
+    src="https://raw.githubusercontent.com/tiswan14/tiswan14/output/snake.svg"
+    alt="Animasi kontribusi GitHub berbentuk ular milik Tiswan"
   />
 </picture>
+
 
 
 
