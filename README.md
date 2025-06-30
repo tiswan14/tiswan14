@@ -5,15 +5,15 @@
   <a href="https://facebook.com/tiswanexc">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook Tiswan" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/mwlite/in/tiswan-6793aa200">
+  <a href="https://www.linkedin.com/mwlite/in/tiswann">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn Tiswan" />
   </a>&nbsp;
-  <a href="https://instagram.com/_tfkhdyt_">
+  <a href="https://instagram.com/code.wannn">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram Tiswan" />
   </a>
 </p>
 
-<h3 align="center">👨🏻‍💻 Junior Frontend Developer</h3>
+<h3 align="center">👨🏻‍💻 Fullstack Developer</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome Banner" />
