@@ -23,19 +23,20 @@
 
 ### 👋 About Me
 
-- 👨‍💼 Nama: **Tiswan**
-- 🎓 Mahasiswa **Teknik Informatika**, Universitas Perjuangan Tasikmalaya  
-- 📍 Berdomisili di **Pangandaran, Jawa Barat, Indonesia**  
-- 🎂 Usia: **21 Tahun**
-- 💡 Bahasa:
-  - 🇮🇩 Bahasa Indonesia  
-  - 🇬🇧 Bahasa Inggris  
+-   👨‍💼 Nama: **Tiswan**
+-   🎓 Mahasiswa **Teknik Informatika**, Universitas Perjuangan Tasikmalaya
+-   📍 Berdomisili di **Pangandaran, Jawa Barat, Indonesia**
+-   🎂 Usia: **21 Tahun**
+-   💡 Bahasa:
+    -   🇮🇩 Bahasa Indonesia
+    -   🇬🇧 Bahasa Inggris
 
 ---
 
 ### 🧰 Tech Stack
 
 #### 💻 Programming Languages
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,6 +44,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🧩 Frameworks & Libraries
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -51,21 +53,23 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### 🗃️ Database Management
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### 🛠️ Development Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### 🌐 Networking & Operating Systems
+
 ![MikroTik](https://img.shields.io/badge/MikroTik-0096D6?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 
 ### 🧠 Top Languages
 
@@ -84,20 +88,8 @@
   />
 </picture>
 
-
-
 <!-- Snake GitHub Contribution Animation - Tiswan -->
 <picture>
-  <source
-    srcset="https://raw.githubusercontent.com/tiswan14/tiswan14/output/snake.svg"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://raw.githubusercontent.com/tiswan14/tiswan14/output/snake.svg"
-    alt="Animasi kontribusi GitHub berbentuk ular milik Tiswan"
-  />
+  <source srcset="https://raw.githubusercontent.com/tiswan14/tiswan14/output/snake.svg" media="(prefers-color-scheme: dark)" />
+  <img src="https://raw.githubusercontent.com/tiswan14/tiswan14/output/snake.svg" alt="Animasi Snake GitHub Tiswan" />
 </picture>
-
-
-
-
