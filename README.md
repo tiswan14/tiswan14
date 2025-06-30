@@ -69,7 +69,22 @@
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&layout=compact)
+<!-- Top Languages - Tiswan (Compact + Theme-Aware) -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&layout=compact"
+    alt="Bahasa Pemrograman Teratas Tiswan (Compact)"
+  />
+</picture>
+
 
 
 ---
