@@ -61,6 +61,7 @@
 
 ### Stats 📋
 
+<!-- GitHub Stats - Tiswan -->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true&theme=dark"
@@ -70,8 +71,22 @@
     srcset="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true" alt="GitHub Stats Tiswan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tiswan14&show_icons=true" alt="Statistik GitHub Tiswan" />
 </picture>
+
+<!-- Top Languages - Tiswan -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&hide_progress=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&hide_progress=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiswan14&hide_progress=true" alt="Bahasa Pemrograman Teratas Tiswan di GitHub" />
+</picture>
+
 
 
 <!-- | GitHub Stats | Contribution Streak |
