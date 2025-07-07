@@ -72,7 +72,7 @@
 </div>
 
 ---
-<!-- tiswan -->
+<!-- tiswa -->
 ### 🐍 Contribution Graph
 
 <!--  -->
