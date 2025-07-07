@@ -75,7 +75,7 @@
 
 ### 🐍 Contribution Graph
 
-<!-- Snake Contribution Animation -->
+<!--  -->
 <img src="https://raw.githubusercontent.com/tiswan14/tiswan14/output/snake.svg" alt="Snake animation" />
 
 ---
@@ -92,7 +92,7 @@
 
 ### 📬 Open to Collaboration
 
-I'm available for freelance work, internships, or open-source contributions.  
+I'm available for freelance work, internships, or open-source contributions.
 📧 Reach me at: `tiswan897@gmail.com`
 
 ---
