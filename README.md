@@ -39,14 +39,6 @@
 <br>
 <img src="https://skillicons.dev/icons?i=git,docker,postman,linux" />
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project 1](https://github.com/tiswan14/...) | Short description | `React` `Node.js` |
-| [Project 2](https://github.com/tiswan14/...) | Short description | `Go` `PostgreSQL` |
-| [Project 3](https://github.com/tiswan14/...) | Short description | `Next.js` `Supabase` |
-
 ## 📊 GitHub Stats
 
 <p align="center">
